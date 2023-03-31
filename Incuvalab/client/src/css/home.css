@@ -1,0 +1,58 @@
+#banner{
+    background-color: rgb(37, 37, 37);
+  } 
+  
+  #titleHome {
+    color:  #e20263;
+  }
+  
+  #btn-startproyect{
+    background: #9D0044;
+    color: white;
+    border-color: #9D0044;
+  }
+  
+  #btn-startproyect:hover {
+    background: #92003f;
+    color: white;
+    border-color: #92003f;
+  }
+  
+  #btn-outline-pageHome{
+    background-color: white;
+    color: #9D0044;
+    border-color: #9D0044;
+  }
+  
+  #btn-outline-pageHome:hover {
+    background: #b70150;
+    color: white;
+    border-color: #b70150;
+  }
+  
+  #circulo {
+    margin: auto;
+      width: 3rem;
+      height: 3rem;
+      border-radius: 50%;
+      background: #ea0267;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+  }
+  #circulo > p {
+    margin: auto;
+      font-family: sans-serif;
+      color: white;
+      font-size: 1rem;
+      font-weight: bold;
+  }
+  
+  #text-wrap-left{
+    width: 35rem;
+  }
+  
+  Link{
+    outline: none;
+  }

@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+} 
+
+.nav-page-title{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.gradient {
+    background: rgb(2,0,36);
+    background: linear-gradient(222deg, rgba(2,0,36,1) 0%, rgba(228,0,99,1) 0%, rgba(232,72,142,1) 100%);
+}
+
+.button{
+    border: 2px solid rgb(146, 0, 68);
+    padding: 5px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.btn-option{
+    border: 2px solid white;
+    padding: 10px 15px;
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    color: #9D0044;
+}
+
+.btn-outline-login {
+    background-color: white;
+    color: #9D0044;
+    border-color: #9D0044;
+}
+
+.btn-outline-login:hover {
+    background: #b70150;
+    color: white;
+    border-color: #b70150;
+}
+
+.btn-register{
+    background: #9D0044;
+    color: white;
+    border-color: #9D0044;
+}
+
+.btn-register:hover {
+    background: #92003f;
+    color: white;
+    border-color: #92003f;
+}
+
+.dropdown-left{
+    right: 0; 
+    left: auto;
+}

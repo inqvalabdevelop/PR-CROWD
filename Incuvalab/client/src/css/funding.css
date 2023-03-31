@@ -1,0 +1,19 @@
+.button{
+    border: 2px solid rgb(146, 0, 68);
+    padding: 5px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.btn-general {
+    background: #9D0044;
+    color: white;
+    border-color: #9D0044;
+}
+
+.btn-general:hover {
+    background: #92003f;
+    color: white;
+    border-color: #92003f;
+}
